@@ -5,7 +5,7 @@ export default function Home() {
     <div className="grid items-center justify-items-center ">
       <h1 className="text-4xl font-bold text-center mb-4">
         Welcome to Next.js!
-        welcome
+        welcome to All
       </h1>
       {/* <Template/> */}
       {/* <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
