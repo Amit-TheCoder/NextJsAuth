@@ -1,5 +1,3 @@
-import Image from "next/image";
-import Template from "./component/template";
 
 export default function Home() {
   
